@@ -35,10 +35,10 @@
      "teksChat" : "Gada menu",
      "totalForward" : 1000000,
      "gamewaktu": 60,
-	 "limitCount": 30,
+	 "limitCount": 99999,
 	 "gcount": {
-		"prem": 30,
-		"user": 20
+		"prem": 99999,
+		"user": 99999
 },
      "lolkey": "3a5fadc9dfb7b4b1f2a5a8e3",
      "zeks": "officialdittaz", 
