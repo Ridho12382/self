@@ -19,7 +19,7 @@
      "forwarding": false,
      "antitroli" : false,
      "autovn" : false,
-     "autosticker" : false,
+     "autosticker" : true,
      "autorespon" : false,
      "autotyping" : false,
      "chatBot" : false,
